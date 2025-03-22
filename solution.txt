@@ -1,2 +1,5 @@
 Please add your pseudocode to this file
 And a written explanation of your solution
+//The function generates all consecutive substrings of a given string using two nested loops. Outer loop sets the starting index, inner loop extracts substrings until the end.
+
+//The time complexity is O(n²) due to the nested loops.
